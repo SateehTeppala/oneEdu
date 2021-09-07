@@ -25,7 +25,7 @@
     
     font-family: 'Alata', sans-serif;
     color: #c3073f;
-    font-size: 8rem;
+    font-size: 4.5rem;
     line-height: 1.0;
     
   }
@@ -38,12 +38,7 @@
     font-size: 1.5rem;
     line-height: 1.5;
   }
-  .blockquote{
-    font-family: 'Dancing Script', cursive;
-      font-size: 3.5rem;
-      font-weight: 700;
-
-  }
+ 
   a, a:hover, a:visited, a:link, a:active
 {
     text-decoration: none;
