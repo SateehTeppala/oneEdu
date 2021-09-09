@@ -21,13 +21,9 @@
     line-height: 1.0;
     
   } 
-  .t {
-    
-    font-family: 'Alata', sans-serif;
+  .display-2,.display-3
+  {
     color: #c3073f;
-    font-size: 4.5rem;
-    line-height: 1.0;
-    
   }
   h1{
     color: #ffffff;
@@ -71,7 +67,3 @@
   border-radius: 0.5rem;
 }
 
-.hc{
-  padding-left: 5rem;
-  color: #c3073f;
-}
