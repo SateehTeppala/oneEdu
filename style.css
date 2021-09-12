@@ -7,7 +7,8 @@
     margin: 0 2rem 0 2rem;
   }
   .navbar-nav{
-    font:normal 1.5rem/1.5 'Dancing Script', sans-serif ;
+    font-size: 1.5rem;
+    line-height: 2rem;
   }
  
   .container{
@@ -16,7 +17,7 @@
     
   } 
   body{
-    background-color: #0C0032;
+    background-color: #242424;
     font-family: 'Alata', sans-serif;
     line-height: 1.0;
     
@@ -39,14 +40,6 @@
 {
     text-decoration: none;
     
-}
-
-.don
-{
-    font-size: 1.3rem;
-}
-#under{
-    text-decoration: underline dotted #ffffff;
 }
 .donate, .love, .support
 {
