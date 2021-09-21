@@ -1,62 +1,61 @@
 .center {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  .navbar{
-    margin: 0 2rem 0 2rem;
-  }
-  .navbar-nav{
-    font-size: 1.5rem;
-    line-height: 2rem;
-  }
- 
-  .container{
-    margin-top: 5rem;
-    margin-bottom: 8rem;
-    
-  } 
-  body{
-    background-color: #242424;
-    font-family: 'Alata', sans-serif;
-    line-height: 1.0;
-    
-  } 
-  .display-2,.display-3
-  {
-    color: #c3073f;
-  }
-  h1{
-    color: #ffffff;
-  }
-  .lead {
-    font-family: 'Alata',sans-serif;
-    color: #ffffff;
-    font-size: 1.5rem;
-    line-height: 1.5;
-  }
- 
-  a, a:hover, a:visited, a:link, a:active
-{
-    text-decoration: none;
-    
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
-.donate, .love, .support
-{
-    color: #c3073f;
+.navbar {
+  margin: 0 2rem 0 2rem;
 }
-.donate:hover, .love:hover,.support:hover
-{
-    color: #5cdb95;
+.navbar-nav {
+  font-size: 1.5rem;
+  line-height: 2rem;
 }
-.card-header
-{
-    background-color: #cafafe;
+
+.container {
+  margin-top: 5rem;
+  margin-bottom: 8rem;
 }
-.ff
-{
+body {
+  background-color: #242424;
+  font-family: "Alata", sans-serif;
+  line-height: 1;
+}
+.display-2,
+.display-3 {
+  color: #c3073f;
+}
+h1 {
+  color: #ffffff;
+}
+.lead {
+  font-family: "Alata", sans-serif;
+  color: #ffffff;
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+
+a,
+a:hover,
+a:visited,
+a:link,
+a:active {
+  text-decoration: none;
+}
+.donate,
+.love,
+.support {
+  color: #c3073f;
+}
+.donate:hover,
+.love:hover,
+.support:hover {
+  color: #5cdb95;
+}
+.card-header {
+  background-color: #cafafe;
+}
+.ff {
   background-color: #edf5e1;
   padding: 1.5rem;
   border-radius: 0.5rem;
 }
-
